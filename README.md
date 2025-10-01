@@ -1,4 +1,4 @@
 <center>
-  <h1>Osnove Programiranja - Singidunum</h1>
-  <h2>Prvi Semestar - Python</h2>
+  <h1>Programing basics - Singidunum University</h1>
+  <h2>I Semester - Python Exercises</h2>
 </center>
