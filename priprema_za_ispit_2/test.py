@@ -1,0 +1,6 @@
+file = open('proizvodi.dat')
+print(file.readline())
+print(file.readline())
+print(file.read(4).strip())
+print(file.read(4).strip())
+print(file.readline().strip())
